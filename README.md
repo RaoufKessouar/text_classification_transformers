@@ -23,7 +23,7 @@ The project demonstrates an End-to-End workflow: from downloading data via Kaggl
 ### Setup the repository
 ```
 bert_sarcasm_project/
-├─ Sarcasm_Detection_BERT.ipynb
+├─ text_classification_transformers.ipynb
 ├─ requirements.txt
 └─ README.md
 ```
